@@ -1,0 +1,15 @@
+D:\Windows\Documents\GitHub\PlayRole\PlayRole\PlayRole\bin\Debug\net8.0\PlayRole.exe
+D:\Windows\Documents\GitHub\PlayRole\PlayRole\PlayRole\bin\Debug\net8.0\PlayRole.deps.json
+D:\Windows\Documents\GitHub\PlayRole\PlayRole\PlayRole\bin\Debug\net8.0\PlayRole.runtimeconfig.json
+D:\Windows\Documents\GitHub\PlayRole\PlayRole\PlayRole\bin\Debug\net8.0\PlayRole.dll
+D:\Windows\Documents\GitHub\PlayRole\PlayRole\PlayRole\bin\Debug\net8.0\PlayRole.pdb
+D:\Windows\Documents\GitHub\PlayRole\PlayRole\PlayRole\obj\Debug\net8.0\PlayRole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Windows\Documents\GitHub\PlayRole\PlayRole\PlayRole\obj\Debug\net8.0\PlayRole.AssemblyInfoInputs.cache
+D:\Windows\Documents\GitHub\PlayRole\PlayRole\PlayRole\obj\Debug\net8.0\PlayRole.AssemblyInfo.cs
+D:\Windows\Documents\GitHub\PlayRole\PlayRole\PlayRole\obj\Debug\net8.0\PlayRole.csproj.CoreCompileInputs.cache
+D:\Windows\Documents\GitHub\PlayRole\PlayRole\PlayRole\obj\Debug\net8.0\PlayRole.sourcelink.json
+D:\Windows\Documents\GitHub\PlayRole\PlayRole\PlayRole\obj\Debug\net8.0\PlayRole.dll
+D:\Windows\Documents\GitHub\PlayRole\PlayRole\PlayRole\obj\Debug\net8.0\refint\PlayRole.dll
+D:\Windows\Documents\GitHub\PlayRole\PlayRole\PlayRole\obj\Debug\net8.0\PlayRole.pdb
+D:\Windows\Documents\GitHub\PlayRole\PlayRole\PlayRole\obj\Debug\net8.0\PlayRole.genruntimeconfig.cache
+D:\Windows\Documents\GitHub\PlayRole\PlayRole\PlayRole\obj\Debug\net8.0\ref\PlayRole.dll

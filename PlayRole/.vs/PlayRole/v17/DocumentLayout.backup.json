@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Windows\\Documents\\GitHub\\PlayRole\\PlayRole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4313E6E7-3C10-4308-B4F8-80450BD8B424}|PlayRole\\PlayRole.csproj|d:\\windows\\documents\\github\\playrole\\playrole\\playrole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4313E6E7-3C10-4308-B4F8-80450BD8B424}|PlayRole\\PlayRole.csproj|solutionrelative:playrole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4313E6E7-3C10-4308-B4F8-80450BD8B424}|PlayRole\\PlayRole.csproj|d:\\windows\\documents\\github\\playrole\\playrole\\playrole\\entite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4313E6E7-3C10-4308-B4F8-80450BD8B424}|PlayRole\\PlayRole.csproj|solutionrelative:playrole\\entite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4313E6E7-3C10-4308-B4F8-80450BD8B424}|PlayRole\\PlayRole.csproj|d:\\windows\\documents\\github\\playrole\\playrole\\playrole\\personnage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4313E6E7-3C10-4308-B4F8-80450BD8B424}|PlayRole\\PlayRole.csproj|solutionrelative:playrole\\personnage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4313E6E7-3C10-4308-B4F8-80450BD8B424}|PlayRole\\PlayRole.csproj|d:\\windows\\documents\\github\\playrole\\playrole\\playrole\\monstre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4313E6E7-3C10-4308-B4F8-80450BD8B424}|PlayRole\\PlayRole.csproj|solutionrelative:playrole\\monstre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4313E6E7-3C10-4308-B4F8-80450BD8B424}|PlayRole\\PlayRole.csproj|d:\\windows\\documents\\github\\playrole\\playrole\\playrole\\archer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4313E6E7-3C10-4308-B4F8-80450BD8B424}|PlayRole\\PlayRole.csproj|solutionrelative:playrole\\archer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4313E6E7-3C10-4308-B4F8-80450BD8B424}|PlayRole\\PlayRole.csproj|d:\\windows\\documents\\github\\playrole\\playrole\\playrole\\sorcier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4313E6E7-3C10-4308-B4F8-80450BD8B424}|PlayRole\\PlayRole.csproj|solutionrelative:playrole\\sorcier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4313E6E7-3C10-4308-B4F8-80450BD8B424}|PlayRole\\PlayRole.csproj|d:\\windows\\documents\\github\\playrole\\playrole\\playrole\\guerrier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4313E6E7-3C10-4308-B4F8-80450BD8B424}|PlayRole\\PlayRole.csproj|solutionrelative:playrole\\guerrier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Windows\\Documents\\GitHub\\PlayRole\\PlayRole\\PlayRole\\Program.cs",
+              "RelativeDocumentMoniker": "PlayRole\\Program.cs",
+              "ToolTip": "D:\\Windows\\Documents\\GitHub\\PlayRole\\PlayRole\\PlayRole\\Program.cs",
+              "RelativeToolTip": "PlayRole\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:39:34.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sorcier.cs",
+              "DocumentMoniker": "D:\\Windows\\Documents\\GitHub\\PlayRole\\PlayRole\\PlayRole\\Sorcier.cs",
+              "RelativeDocumentMoniker": "PlayRole\\Sorcier.cs",
+              "ToolTip": "D:\\Windows\\Documents\\GitHub\\PlayRole\\PlayRole\\PlayRole\\Sorcier.cs",
+              "RelativeToolTip": "PlayRole\\Sorcier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T14:46:48.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Guerrier.cs",
+              "DocumentMoniker": "D:\\Windows\\Documents\\GitHub\\PlayRole\\PlayRole\\PlayRole\\Guerrier.cs",
+              "RelativeDocumentMoniker": "PlayRole\\Guerrier.cs",
+              "ToolTip": "D:\\Windows\\Documents\\GitHub\\PlayRole\\PlayRole\\PlayRole\\Guerrier.cs",
+              "RelativeToolTip": "PlayRole\\Guerrier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T14:46:36.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Archer.cs",
+              "DocumentMoniker": "D:\\Windows\\Documents\\GitHub\\PlayRole\\PlayRole\\PlayRole\\Archer.cs",
+              "RelativeDocumentMoniker": "PlayRole\\Archer.cs",
+              "ToolTip": "D:\\Windows\\Documents\\GitHub\\PlayRole\\PlayRole\\PlayRole\\Archer.cs",
+              "RelativeToolTip": "PlayRole\\Archer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T14:46:29.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Personnage.cs",
+              "DocumentMoniker": "D:\\Windows\\Documents\\GitHub\\PlayRole\\PlayRole\\PlayRole\\Personnage.cs",
+              "RelativeDocumentMoniker": "PlayRole\\Personnage.cs",
+              "ToolTip": "D:\\Windows\\Documents\\GitHub\\PlayRole\\PlayRole\\PlayRole\\Personnage.cs",
+              "RelativeToolTip": "PlayRole\\Personnage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T14:46:23.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Monstre.cs",
+              "DocumentMoniker": "D:\\Windows\\Documents\\GitHub\\PlayRole\\PlayRole\\PlayRole\\Monstre.cs",
+              "RelativeDocumentMoniker": "PlayRole\\Monstre.cs",
+              "ToolTip": "D:\\Windows\\Documents\\GitHub\\PlayRole\\PlayRole\\PlayRole\\Monstre.cs",
+              "RelativeToolTip": "PlayRole\\Monstre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T14:46:08.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Entite.cs",
+              "DocumentMoniker": "D:\\Windows\\Documents\\GitHub\\PlayRole\\PlayRole\\PlayRole\\Entite.cs",
+              "RelativeDocumentMoniker": "PlayRole\\Entite.cs",
+              "ToolTip": "D:\\Windows\\Documents\\GitHub\\PlayRole\\PlayRole\\PlayRole\\Entite.cs",
+              "RelativeToolTip": "PlayRole\\Entite.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T14:45:55.905Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
