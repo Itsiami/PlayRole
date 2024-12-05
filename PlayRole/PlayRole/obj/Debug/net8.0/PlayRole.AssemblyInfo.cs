@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PlayRole")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee5da53eecb1371df356b2871da47a893b67eebd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2dae96d61c87dc896e3f11feb4fddb7a196ae0a5")]
 [assembly: System.Reflection.AssemblyProductAttribute("PlayRole")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PlayRole")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

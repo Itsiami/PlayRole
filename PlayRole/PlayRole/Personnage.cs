@@ -42,7 +42,7 @@ namespace PlayRole
             return this.nom + "\n" +
                 "Point de vie : " + this.pdV + "\n" +
                 "Niveau : " + this.niveau + "\n" +
-                "Points d'expérience : (" + this.exp + "/" + this.ExperienceRequise() + "\n" +
+                "Points d'expérience : " + this.exp + "/" + this.ExperienceRequise() + "\n" +
                 "Dégats : [" + this.dgtMin + ";" + this.dgtMax + "]";
         }
     }

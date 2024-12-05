@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Windows\\Documents\\GitHub\\PlayRole\\PlayRole\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4313E6E7-3C10-4308-B4F8-80450BD8B424}|PlayRole\\PlayRole.csproj|d:\\windows\\documents\\github\\playrole\\playrole\\playrole\\personnage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4313E6E7-3C10-4308-B4F8-80450BD8B424}|PlayRole\\PlayRole.csproj|solutionrelative:playrole\\personnage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4313E6E7-3C10-4308-B4F8-80450BD8B424}|PlayRole\\PlayRole.csproj|d:\\windows\\documents\\github\\playrole\\playrole\\playrole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4313E6E7-3C10-4308-B4F8-80450BD8B424}|PlayRole\\PlayRole.csproj|solutionrelative:playrole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4313E6E7-3C10-4308-B4F8-80450BD8B424}|PlayRole\\PlayRole.csproj|d:\\windows\\documents\\github\\playrole\\playrole\\playrole\\entite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4313E6E7-3C10-4308-B4F8-80450BD8B424}|PlayRole\\PlayRole.csproj|solutionrelative:playrole\\entite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4313E6E7-3C10-4308-B4F8-80450BD8B424}|PlayRole\\PlayRole.csproj|d:\\windows\\documents\\github\\playrole\\playrole\\playrole\\personnage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4313E6E7-3C10-4308-B4F8-80450BD8B424}|PlayRole\\PlayRole.csproj|solutionrelative:playrole\\personnage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4313E6E7-3C10-4308-B4F8-80450BD8B424}|PlayRole\\PlayRole.csproj|d:\\windows\\documents\\github\\playrole\\playrole\\playrole\\monstre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,17 +38,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Windows\\Documents\\GitHub\\PlayRole\\PlayRole\\PlayRole\\Program.cs",
               "RelativeDocumentMoniker": "PlayRole\\Program.cs",
               "ToolTip": "D:\\Windows\\Documents\\GitHub\\PlayRole\\PlayRole\\PlayRole\\Program.cs",
               "RelativeToolTip": "PlayRole\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBcAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T15:39:34.426Z",
               "EditorCaption": ""
@@ -63,8 +63,7 @@
               "RelativeToolTip": "PlayRole\\Sorcier.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T14:46:48.452Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T14:46:48.452Z"
             },
             {
               "$type": "Document",
@@ -88,18 +87,17 @@
               "RelativeToolTip": "PlayRole\\Archer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T14:46:29.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T14:46:29.926Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Personnage.cs",
               "DocumentMoniker": "D:\\Windows\\Documents\\GitHub\\PlayRole\\PlayRole\\PlayRole\\Personnage.cs",
               "RelativeDocumentMoniker": "PlayRole\\Personnage.cs",
               "ToolTip": "D:\\Windows\\Documents\\GitHub\\PlayRole\\PlayRole\\PlayRole\\Personnage.cs",
               "RelativeToolTip": "PlayRole\\Personnage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACwAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T14:46:23.265Z",
               "EditorCaption": ""
@@ -114,12 +112,11 @@
               "RelativeToolTip": "PlayRole\\Monstre.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T14:46:08.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T14:46:08.651Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Entite.cs",
               "DocumentMoniker": "D:\\Windows\\Documents\\GitHub\\PlayRole\\PlayRole\\PlayRole\\Entite.cs",
               "RelativeDocumentMoniker": "PlayRole\\Entite.cs",
@@ -127,8 +124,7 @@
               "RelativeToolTip": "PlayRole\\Entite.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T14:45:55.905Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T14:45:55.905Z"
             }
           ]
         }
